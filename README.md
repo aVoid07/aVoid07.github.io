@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## VOID's Life
 
 You can use the [editor on GitHub](https://github.com/aVoid07/aVoid07.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
